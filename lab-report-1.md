@@ -22,7 +22,7 @@ If you are on Windows, you will need to install a program called OpenSSH. OpenSS
 Everyone in CSE 15L has a course-specific account. Your account will have a name similar to **cs15lsp22abc@ieng6.ucsd.edu**. This can be accessed here:<br>
 **[CSE 15L Account Lookup](https://sdacs.ucsd.edu/~icc/index.php)**<br>
 <br>
-Then, by using VSCode's remote option, you will be connecting to a remote computer. Start by opening a new terminal in VSCode, and type the following command with **YOUR** CSE 15L course-specific account.
+Then, by using VSCode's remote option, you will be connecting to a remote computer. Start by opening a new terminal in VSCode, and type the following command with _your_ CSE 15L course-specific account.
 
 ```
 $ ssh cs15lsp22abc@ien6.ucsd.edu
