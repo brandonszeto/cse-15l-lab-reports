@@ -19,8 +19,14 @@ Your VSC may look different depending on your operating system, menu bar, system
 If you are on Windows, you will need to install a program called OpenSSH. OpenSSH will allow your computer to remotely connect to other computers. OpenSSH can be found here:<br>
 **[Install OpenSSH](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse)**<br>
 <br>
-Everyone in CSE 15L has a course-specific account. Your account should have a name similar to **cs15lsp22abc@ieng6-203**. This can be accessed here:<br>
+Everyone in CSE 15L has a course-specific account. Your account will have a name similar to **cs15lsp22abc@ieng6.ucsd.edu**. This can be accessed here:<br>
 **[CSE 15L Account Lookup](https://sdacs.ucsd.edu/~icc/index.php)**<br>
+<br>
+Then, by using VSCode's remote option, you will be connecting to a remote computer. Start by opening a new terminal in VSCode, and type the following command with **YOUR** CSE 15L course-specific account.
+
+```
+$ ssh cs15lsp22abc@ien6.ucsd.edu
+```
 
 ---
 
