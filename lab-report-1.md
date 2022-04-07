@@ -16,6 +16,7 @@ Your VSC may look different depending on your operating system, menu bar, system
 **Step 2: Remotely Connecting** <br>
 ---
 
+If you are on Windows, you will need to install a program called OpenSSH. OpenSSH will allow your computer to remotely connect to other computers.<br>
 Everyone in CSE 15L has a course-specific account. Your account should have a name similar to **cs15lsp22abc@ieng6-203**. This can be accessed here:<br>
 **[CSE 15L Account Lookup](https://sdacs.ucsd.edu/~icc/index.php)**
 
