@@ -1,4 +1,4 @@
-## How to login to course-specific account on ieng6
+## How To Login To Course-specific Account on ieng6
 
 Step 1: Installing VSCode <br>
 Step 2: Remotely Connecting <br>
