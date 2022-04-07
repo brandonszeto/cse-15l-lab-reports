@@ -17,9 +17,7 @@ Your VSC may look different depending on your operating system, menu bar, system
 ---
 
 Everyone in CSE 15L has a course-specific account. Your account should have a name similar to **cs15lsp22abc@ieng6-203**. This can be accessed here:<br>
-<br>
-
-[CSE 15L Account Lookup](https://sdacs.ucsd.edu/~icc/index.php)
+**[CSE 15L Account Lookup](https://sdacs.ucsd.edu/~icc/index.php)**
 
 ---
 
