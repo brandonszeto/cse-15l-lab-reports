@@ -2,7 +2,7 @@
 
 **Step 1: Installing VSCode** <br>
 
-<font size='12'> Go to the Visual Studio Code website https://code.visualstudio.com/, and follow the instructions to download and install it on your computer. There are versions for both MacOS and Windows.</font>
+Go to the Visual Studio Code website https://code.visualstudio.com/, and follow the instructions to download and install it on your computer. There are versions for both MacOS and Windows.
 ---
 
 **Step 2: Remotely Connecting** <br>
