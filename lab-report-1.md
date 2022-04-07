@@ -9,7 +9,6 @@ After installing and launching VSCode, you should be able to open the VSCode app
 <p align="center">
   <img src="https://user-images.githubusercontent.com/99768694/162289848-79e42961-ef43-4466-b51a-0f35f0fecbe1.png" alt="image" width="600"/>
 </p>
-<br>
 Your VSC may look different depending on your operating system, menu bar, system settings, or color scheme.
 
 ---
