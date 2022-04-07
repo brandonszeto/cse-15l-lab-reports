@@ -1,4 +1,4 @@
-## How To Login To Course-specific Account on ieng6
+## How To Login To Course-specific Account on ieng6 <br>
 
 **Step 1: Installing VSCode** <br>
 Go to the Visual Studio Code website https://code.visualstudio.com/, and follow the instructions to download and install it on your computer. There are versions for both MacOS and Windows.
