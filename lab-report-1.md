@@ -7,7 +7,7 @@ Go to the Visual Studio Code website https://code.visualstudio.com/, and follow 
 <br>
 After installing and launching VSCode, you should be able to open the VSCode application and see a window that looks something like this:<br>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/99768694/162289848-79e42961-ef43-4466-b51a-0f35f0fecbe1.png" alt="image" width="600"/>
+  <img src="https://user-images.githubusercontent.com/99768694/162289848-79e42961-ef43-4466-b51a-0f35f0fecbe1.png" alt="image" width="800"/>
 </p>
 Note: Your VSC may look different depending on your operating system, menu bar, system settings, or color scheme.
 
@@ -58,7 +58,7 @@ ieng6-203   23:25:01   1  0.08,  0.15,  0.11
 Sun Jan 02, 2022 11:28pm - Prepping cs15lsp22
 ```
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/99768694/162544709-2b6ca85d-fc03-4cc2-87ab-bf087908d2d3.png" alt="image" width="600"/>
+  <img src="https://user-images.githubusercontent.com/99768694/162544709-2b6ca85d-fc03-4cc2-87ab-bf087908d2d3.png" alt="image" width="800"/>
 </p>
 
 ---
