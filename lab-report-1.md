@@ -57,6 +57,9 @@ ieng6-203   23:25:01   1  0.08,  0.15,  0.11
 
 Sun Jan 02, 2022 11:28pm - Prepping cs15lsp22
 ```
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/99768694/162544709-2b6ca85d-fc03-4cc2-87ab-bf087908d2d3.png" alt="image" width="600"/>
+</p>
 
 ---
 
