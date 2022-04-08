@@ -9,7 +9,7 @@ After installing and launching VSCode, you should be able to open the VSCode app
 <p align="center">
   <img src="https://user-images.githubusercontent.com/99768694/162289848-79e42961-ef43-4466-b51a-0f35f0fecbe1.png" alt="image" width="600"/>
 </p>
-<span style="color:red">Note: </span> Your VSC may look different depending on your operating system, menu bar, system settings, or color scheme.
+Note: Your VSC may look different depending on your operating system, menu bar, system settings, or color scheme.
 
 ---
 
@@ -26,6 +26,16 @@ Then, by using VSCode's remote option, you will be connecting to a remote comput
 
 ```
 $ ssh cs15lsp22abc@ien6.ucsd.edu
+```
+Because this may be the first time thath you have connected to the server, you should see a message in the terminal that looks something like this:
+
+```
+The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
+RSA key fingerprint is 
+SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
+
+Are you sure you want to continue connecting
+(yes/no/[fingerprint])?
 ```
 
 ---
