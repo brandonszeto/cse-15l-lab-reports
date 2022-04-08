@@ -126,6 +126,11 @@ Display command manual:
 ```
 $ man
 ```
+
+Here is an example of what your terminal may look like after running some basic commands:
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/99768694/162545395-6c49dfe7-0ac7-4aed-8da5-66df1fb8e5af.png" alt="image" width="800"/>
+</p>
 ---
 
 **Step 4: Moving Files with scp** <br>
