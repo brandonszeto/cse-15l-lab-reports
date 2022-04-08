@@ -84,7 +84,48 @@ List Files: (ls[options][names], e.g., ls -l, ls -a, ls -lat)
 ```
 $ ls
 ```
+Copy:
 
+```
+$ cp
+```
+Move or rename:
+
+```
+$ mv
+```
+Change directory:
+
+```
+$ cd
+```
+Make directory:
+
+```
+$ mkdir
+```
+Remove:
+
+```
+$ rm
+```
+Create or view a file:
+
+```
+$ cat
+```
+
+Create a file:
+
+```
+$ touch
+```
+
+Display command manual:
+
+```
+$ man
+```
 ---
 
 **Step 4: Moving Files with scp** <br>
