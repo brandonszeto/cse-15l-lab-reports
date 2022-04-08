@@ -61,10 +61,29 @@ Sun Jan 02, 2022 11:28pm - Prepping cs15lsp22
   <img src="https://user-images.githubusercontent.com/99768694/162544709-2b6ca85d-fc03-4cc2-87ab-bf087908d2d3.png" alt="image" width="800"/>
 </p>
 
+Now your terminal is successfully connected to a computer in the CSE basement, and any commands that you input will run on that computer.<br>
+<br>
+
+To log out of the remote server in your terminal, you can use the shortcut `ctrl + D` or run the command `exit`.
+
 ---
 
 **Step 3: Trying Some Commands** <br>
 ---
+
+Let's try running some commands. Below are a few commands that you can try.<br>
+<br>
+
+Print working directory:
+
+```
+$ pwd
+```
+List Files: (ls[options][names], e.g., ls -l, ls -a, ls -lat)
+
+```
+$ ls
+```
 
 ---
 
