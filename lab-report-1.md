@@ -135,6 +135,13 @@ Here is an example of what your terminal may look like after running some basic 
 
 **Step 4: Moving Files with scp** <br>
 ---
+Now let's try moving files from your computer to the remote computer. The command `scp`, is used to do just that. This works as following:
+```
+$ scp filename.txt cs15lsp22abc@ieng6.ucsd.edu:~/
+```
+Like `ssh`, you will be prompted for your password.<br>
+<br>
+Now, the file is on the computer in the CSE basement.
 
 ---
 
