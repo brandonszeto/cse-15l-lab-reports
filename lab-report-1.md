@@ -141,7 +141,13 @@ $ scp filename.txt cs15lsp22abc@ieng6.ucsd.edu:~/
 ```
 Like `ssh`, you will be prompted for your password.<br>
 <br>
-Now, the file is on the computer in the CSE basement.
+Now, the file is on the computer in the CSE basement.<br>
+<br>
+Here is an example of what a successful scp should look like:
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/99768694/162545917-89aa9946-9107-499a-8635-d221c3c2e067.png" alt="image" width="800"/>
+</p>
+
 
 ---
 
