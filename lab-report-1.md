@@ -178,11 +178,11 @@ The key's randomart image is:
 ```
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/99768694/162584200-4ae2df7f-95ae-418b-9910-30b37916d2ea.png" alt="image" width="800"/>
+  <img src="https://user-images.githubusercontent.com/99768694/162584200-4ae2df7f-95ae-418b-9910-30b37916d2ea.png" alt="image" width="300"/>
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/99768694/162584184-6bb0a740-a3f5-4bdb-b520-3d8275e41ad4.png" alt="image" width="800"/>
+  <img src="https://user-images.githubusercontent.com/99768694/162584184-6bb0a740-a3f5-4bdb-b520-3d8275e41ad4.png" alt="image" width="300"/>
 </p>
 
 ---
