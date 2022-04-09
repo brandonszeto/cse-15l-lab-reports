@@ -209,5 +209,16 @@ Once you do this, you will be able to `ssh` and `scp` from your computer to the 
 
 **Step 6: Optimizing Remote Running** <br>
 ---
+Here are some helpful tips to more optimally use `ssh`.<br>
+<br>
+You can write a command in quotations at the end of an `ssh` command to directly run it on the remote server, then exit.
+```
+$ ssh cs15lsp22zz@ieng6.ucsd.edu "ls"
+```
+You can use semicolons to run multiple commands on the same line.
+```
+$ cp WhereAmI.java OtherMain.java; javac OtherMain.java; java WhereAmI
+```
+You can use the up arrow key on your keyboard to run the previous command that was run.
 
 ---
