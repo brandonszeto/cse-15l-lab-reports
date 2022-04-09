@@ -5,10 +5,4 @@
 _Younus_ is smart and handsome. <br>
 [Younus.com](https://younus.com/) is his favorite website. <br>
 `public static void main (String Younus)`<br>
-![Younus](https://user-images.githubusercontent.com/99768694/162282585-c27d8935-b796-4d88-973c-6380c71744b8.png)
-![Younus](https://user-images.githubusercontent.com/99768694/162282585-c27d8935-b796-4d88-973c-6380c71744b8.png)
-![Younus](https://user-images.githubusercontent.com/99768694/162282585-c27d8935-b796-4d88-973c-6380c71744b8.png)
-![Younus](https://user-images.githubusercontent.com/99768694/162282585-c27d8935-b796-4d88-973c-6380c71744b8.png)
-![Younus](https://user-images.githubusercontent.com/99768694/162282585-c27d8935-b796-4d88-973c-6380c71744b8.png)
-![Younus](https://user-images.githubusercontent.com/99768694/162282585-c27d8935-b796-4d88-973c-6380c71744b8.png)
-![Younus](https://user-images.githubusercontent.com/99768694/162282585-c27d8935-b796-4d88-973c-6380c71744b8.png)
+![Younus](https://user-images.githubusercontent.com/99768694/162586985-2c5766bd-c948-464d-a6ba-a2be8ce93e49.png)
