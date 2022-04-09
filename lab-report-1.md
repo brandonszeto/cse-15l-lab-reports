@@ -154,6 +154,29 @@ Here is an example of what a successful scp should look like:
 **Step 5: Setting an SSH Key** <br>
 ---
 
+```
+Generating public/private rsa key pair.
+Enter file in which to save the key (/Users/vivek/.ssh/id_rsa): 
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in /Users/vivek/.ssh/id_rsa.
+Your public key has been saved in /Users/vivek/.ssh/id_rsa.pub.
+The key fingerprint is:
+80:5f:25:7c:f4:90:aa:e1:f4:a0:01:43:4e:e8:bc:f5 vivek@desktop01
+The key's randomart image is:
++--[ RSA 2048]----+
+| oo    ...+.     |
+|.oo  .  .ooo     |
+|o .o. . .o  .    |
+| o ...+o.        |
+|  o .=.=S        |
+| .  .Eo .        |
+|                 |
+|                 |
+|                 |
++-----------------+
+```
+
 ---
 
 **Step 6: Optimizing Remote Running** <br>
