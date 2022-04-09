@@ -154,35 +154,55 @@ Here is an example of what a successful scp should look like:
 **Step 5: Setting an SSH Key** <br>
 ---
 
+Every time you ssh or scp, you will have to input your passphrase. A way to get around this is to use `ssh` keys. By using a program called `ssh-keygen`, you are creating a pair of files called the _public_ and _private_ key. By copying the _public_ key to the server and the _private_ key to your computer, the `ssh` command will use the pair of files **instead** of your passphrase.<br>
+<br>
+You can accomplish this by running the following commands on your local computer:
 ```
-Generating public/private rsa key pair.
-Enter file in which to save the key (/Users/vivek/.ssh/id_rsa): 
-Enter passphrase (empty for no passphrase): 
-Enter same passphrase again: 
-Your identification has been saved in /Users/vivek/.ssh/id_rsa.
-Your public key has been saved in /Users/vivek/.ssh/id_rsa.pub.
-The key fingerprint is:
-80:5f:25:7c:f4:90:aa:e1:f4:a0:01:43:4e:e8:bc:f5 vivek@desktop01
-The key's randomart image is:
-+--[ RSA 2048]----+
-| oo    ...+.     |
-|.oo  .  .ooo     |
-|o .o. . .o  .    |
-| o ...+o.        |
-|  o .=.=S        |
-| .  .Eo .        |
-|                 |
-|                 |
-|                 |
-+-----------------+
+$ ssh-keygen
 ```
+You will get the following output:
+```
+Generating public/private key pair.
+Enter file in which to save the key
+(/Users/<user-name>/.ssh/id_rsa): /Users/<user-name>/.ssh/id_rsa
+Enter passphrase (empty for no passphrase):
+```
+Make sure you do **NOT** input a passphrase. Simply press enter. <br>
+<br>
 
+After successfully setting your key, you should end up with an output that looks like the following:
 <p align="center">
   <img src="https://user-images.githubusercontent.com/99768694/162584200-4ae2df7f-95ae-418b-9910-30b37916d2ea.png" alt="image" width="300"/>
 </p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/99768694/162584184-6bb0a740-a3f5-4bdb-b520-3d8275e41ad4.png" alt="image" width="300"/>
+</p>
+
+This has created two new files on your system: the private key (in a file `id_rsa`) and the public key (in a file `id_rsa.pub`) stored in the `ssh` directory of your computer.<br>
+<br>
+Now we need to copy the *public* key to the `.ssh` directory of your user account on your account on the server. This can be accomplished by running the following commands:
+```
+$ ssh cs15lsp22zz@ieng6.ucsd.edu
+<Enter Password>
+```
+You are now on the server and need to create a .ssh directory by doing the following:
+```
+$ mkdir .ssh
+```
+Now you need to logout and return to your computer.
+```
+$ <logout>
+```
+Now you can safely `scp` the file into the server. (Make sure to use the appropriate usernames and filepaths).
+```
+$ scp /Users/<user-name>/.ssh/id_rsa.pub
+cs15lsp22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys
+```
+Once you do this, you will be able to `ssh` and `scp` from your computer to the server without inputting a passphrase. It will look something like the following:
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/99768694/162584747-cb2d0094-1b89-4968-a63e-af0fb5eef086.png" alt="image" width="800"/>
 </p>
 
 ---
