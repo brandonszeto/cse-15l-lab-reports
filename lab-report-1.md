@@ -222,7 +222,7 @@ $ cp WhereAmI.java OtherMain.java; javac OtherMain.java; java WhereAmI
 You can use the up arrow key on your keyboard to run the previous command that was run.<br>
 <br>
 
-In this example, a new directory was created, accessed, and a text file was created in this directory all in the same line.
+In the example below, a new directory was created, accessed, and a text file was created in this directory all in the same line.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/99768694/163453512-c5ccee52-f047-4b0a-b8d8-d54027108041.png" alt="image" width="800"/>
 </p>
