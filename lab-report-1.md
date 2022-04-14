@@ -3,7 +3,7 @@
 **Step 1: Installing VSCode** <br>
 ---
 
-Go to the Visual Studio Code website https://code.visualstudio.com/, and follow the instructions to download and install it on your computer. VSC supports both MacOS and Windows.<br>
+Go to the [Visual Studio Code]https://code.visualstudio.com/ website, and follow the instructions to download and install it on your computer. VSC supports both MacOS and Windows.<br>
 <br>
 After installing and launching VSCode, you should be able to open the VSCode application and see a window that looks something like this:<br>
 <p align="center">
