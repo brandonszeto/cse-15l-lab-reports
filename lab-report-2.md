@@ -9,7 +9,9 @@ Link to test file with failure-inducing input:<br>
 Symptom of failure-inducing input:<br>
 ![image](https://user-images.githubusercontent.com/99768694/164587751-d2097fbc-6660-40b0-b62c-2e8d9b4f02b8.png)<br>
 2-3 sentence description:<br>
-
+The while loop never broken because currentIndex is never greater than markdown.length(). As a result, 
+a java.lang.OutofMemoryError: Java heap space is thrown. The failure-inducing input is a completely valid input,
+and this is problem can be attributed to a bug in the getLinks() method.
 
 
 **Code Change 2**<br>
