@@ -3,7 +3,7 @@
 ---
 
 Image of code change:<br>
-![image](https://user-images.githubusercontent.com/99768694/164589639-52785807-4a86-4219-8bae-ebb49c23b6d1.png)
+![image](https://user-images.githubusercontent.com/99768694/164589639-52785807-4a86-4219-8bae-ebb49c23b6d1.png)<br>
 Link to test file with failure-inducing input:<br>
 [File with failure-inducing input](https://github.com/brandonszeto/markdown-parser/blob/master/test-file.md)<br>
 Symptom of failure-inducing input:<br>
@@ -18,7 +18,7 @@ and this is problem can be attributed to a bug in the getLinks() method.
 ---
 
 Image of code change:<br>
-
+![image](https://user-images.githubusercontent.com/99768694/164593333-d34c3bd7-24ca-4ca4-b067-fd607e37f5f9.png)<br>
 Link to test file with failure-inducing input:<br>
 [File with failure-inducing input](https://github.com/brandonszeto/markdown-parser/blob/master/test-file2.md)<br>
 Symptom of failure-inducing input:<br>
