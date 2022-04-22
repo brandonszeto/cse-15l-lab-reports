@@ -3,9 +3,11 @@
 ---
 
 Link to test file with failure-inducing input:<br>
-[File with failure-inducing input](https://github.com/brandonszeto/markdown-parser/blob/master/test-file.md)
+[File with failure-inducing input](https://github.com/brandonszeto/markdown-parser/blob/master/test-file.md)<br>
 Symptom of failure-inducing input:<br>
-![image](https://user-images.githubusercontent.com/99768694/164587751-d2097fbc-6660-40b0-b62c-2e8d9b4f02b8.png)
+![image](https://user-images.githubusercontent.com/99768694/164587751-d2097fbc-6660-40b0-b62c-2e8d9b4f02b8.png)<br>
+2-3 sentence description:<br>
+
 
 
 **Code Change 2**<br>
