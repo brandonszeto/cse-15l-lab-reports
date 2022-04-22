@@ -18,9 +18,11 @@ and this is problem can be attributed to a bug in the getLinks() method.
 ---
 
 Image of code change:<br>
+
 Link to test file with failure-inducing input:<br>
+[File with failure-inducing input](https://github.com/brandonszeto/markdown-parser/blob/master/test-file2.md)<br>
 Symptom of failure-inducing input:<br>
-![image](https://user-images.githubusercontent.com/99768694/164590738-c023587b-0e5d-4903-8299-30fbaa2a8d57.png)
+![image](https://user-images.githubusercontent.com/99768694/164590738-c023587b-0e5d-4903-8299-30fbaa2a8d57.png)<br>
 2-3 sentence description:<br>
 The code prints out image files, as image files in markdown use a similar format as links. The  failure-inducing input
 is simply a file that includes images. As a result, the markdown string must be checked for an exclamation mark every 
