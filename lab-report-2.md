@@ -38,6 +38,6 @@ Link to test file with failure-inducing input:<br>
 Symptom of failure-inducing input:<br>
 ![image](https://user-images.githubusercontent.com/99768694/164594235-11ddbd14-2ac0-4cc0-ae7d-60d797a53156.png)<br><br>
 2-3 sentence description:<br>
-The code prints out image files, as image files in markdown use a similar format as links. The  failure-inducing input
-is simply a file that includes images. As a result, the markdown string must be checked for an exclamation mark every 
-loop to filter out images.
+The code prints out empty image links. The failure-inducing input is simply a file that includes brackets and
+parentheses that do not contain any content. As a result, before being added to the output, a string must be checked
+for content.
