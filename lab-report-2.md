@@ -2,6 +2,8 @@
 **Code Change 1**<br>
 ---
 
+Image of code change:
+![image](https://user-images.githubusercontent.com/99768694/164589639-52785807-4a86-4219-8bae-ebb49c23b6d1.png)
 Link to test file with failure-inducing input:<br>
 [File with failure-inducing input](https://github.com/brandonszeto/markdown-parser/blob/master/test-file.md)
 Symptom of failure-inducing input:<br>
