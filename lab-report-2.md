@@ -32,9 +32,9 @@ loop to filter out images.
 ---
 
 Image of code change:<br>
-![image](https://user-images.githubusercontent.com/99768694/164593333-d34c3bd7-24ca-4ca4-b067-fd607e37f5f9.png)<br><br>
+![image](https://user-images.githubusercontent.com/99768694/164598145-e1e1007c-3948-47de-9369-4cbc4384cabc.png)<br><br>
 Link to test file with failure-inducing input:<br>
-[File with failure-inducing input](https://github.com/brandonszeto/markdown-parser/blob/master/test-file2.md)<br><br>
+[File with failure-inducing input](https://github.com/brandonszeto/markdown-parser/blob/master/test-file3.md)<br><br>
 Symptom of failure-inducing input:<br>
 ![image](https://user-images.githubusercontent.com/99768694/164594235-11ddbd14-2ac0-4cc0-ae7d-60d797a53156.png)<br><br>
 2-3 sentence description:<br>
