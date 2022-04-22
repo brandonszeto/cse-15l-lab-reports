@@ -1,6 +1,7 @@
 ## Week 4 Lab Report 2 <br><br>
 
 **Code Change 1**<br>
+
 ---
 
 Image of code change:<br>
@@ -16,6 +17,7 @@ and this is problem can be attributed to a bug in the getLinks() method.
 
 
 **Code Change 2**<br>
+
 ---
 
 Image of code change:<br>
@@ -30,6 +32,7 @@ is simply a file that includes images. As a result, the markdown string must be 
 loop to filter out images.
 
 **Code Change 3**<br>
+
 ---
 
 Image of code change:<br>
