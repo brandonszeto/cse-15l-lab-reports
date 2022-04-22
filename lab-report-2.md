@@ -22,7 +22,9 @@ Link to test file with failure-inducing input:<br>
 Symptom of failure-inducing input:<br>
 ![image](https://user-images.githubusercontent.com/99768694/164590738-c023587b-0e5d-4903-8299-30fbaa2a8d57.png)
 2-3 sentence description:<br>
-
+The code prints out image files, as image files in markdown use a similar format as links. The  failure-inducing input
+is simply a file that includes images. As a result, the markdown string must be checked for an exclamation mark every 
+loop to filter out images.
 
 **Code Change 3**<br>
 ---
