@@ -2,7 +2,7 @@
 **Code Change 1**<br>
 ---
 
-Image of code change:
+Image of code change:<br>
 ![image](https://user-images.githubusercontent.com/99768694/164589639-52785807-4a86-4219-8bae-ebb49c23b6d1.png)
 Link to test file with failure-inducing input:<br>
 [File with failure-inducing input](https://github.com/brandonszeto/markdown-parser/blob/master/test-file.md)<br>
@@ -16,6 +16,13 @@ and this is problem can be attributed to a bug in the getLinks() method.
 
 **Code Change 2**<br>
 ---
+
+Image of code change:<br>
+Link to test file with failure-inducing input:<br>
+Symptom of failure-inducing input:<br>
+![image](https://user-images.githubusercontent.com/99768694/164590738-c023587b-0e5d-4903-8299-30fbaa2a8d57.png)
+2-3 sentence description:<br>
+
 
 **Code Change 3**<br>
 ---
