@@ -29,6 +29,11 @@ Public/Private key stored on ieng6 Account:
   <img src="https://user-images.githubusercontent.com/99768694/167231767-e6044658-5b28-4232-86a0-a6bed9fd7c7d.png" alt="image" width="800"/>
 </p>
 
+Successfully running git push origin main on ieng6 Account:
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/99768694/167278851-276a67a0-bb9d-40f8-a517-50d52c98baaa.png" alt="image" width="800"/>
+</p>
+
 ## Copy Whole Directories with scp -r:<br><br>
 
 Using the command scp -r, a whole directory, rather than a single file can be copied from the local machine to the ssh directory. This command can additionally be used in accordance with other commands in the same line to execute everything in one input. <br><br>
