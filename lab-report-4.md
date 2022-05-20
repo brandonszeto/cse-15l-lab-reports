@@ -1,4 +1,6 @@
-##Lab Report 4:<br><br>
+## Lab Report 4
+
+---
 
 Review MarkdownParser:<br>
 
