@@ -48,6 +48,12 @@ Snippet 3:<br>
 
 ### Do you think there is a small (<10 lines) code change that will make your program work for snippet 1 and all related cases that use inline code with backticks? If yes, describe the code change. If not, describe why it would be a more involved change. <br>
 
+- Yes. The code will look for pairs of backticks, and delete all characters, including the backticks. Then the code will run as usual. 
+
 ### Do you think there is a small (<10 lines) code change that will make your program work for snippet 2 and all related cases that nest parentheses, brackets, and escaped brackets? If yes, describe the code change. If not, describe why it would be a more involved change. <br>
 
+- No. There is no easy way to differentiate parentheses, brackets, and escaped brackets from those that define a link. There will be a multitude of determing factors to check for within the code to determine whether a bracket or parentheses is not a part of a link which could include finding all pairs of brackets or parentheses.
+
 ### Do you think there is a small (<10 lines) code change that will make your program work for snippet 3 and all related cases that have newlines in brackets and parentheses? If yes, describe the code change. If not, describe why it would be a more involved change. <br>
+
+- Yes. There is simply an indexOutOfBoundsException() that my code is running into, which can be avoided by tracing the root of the error. However, I must consider how newlines affect the character count on Windows as opposed to Linux/MacOs based systems.
