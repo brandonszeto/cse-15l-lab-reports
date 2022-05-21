@@ -1,10 +1,14 @@
-## Lab Report 4
+## Lab Report 4 <br>
+
+Link to reviewed MarkdownParser repository:
+https://github.com/mikayladalton2/markdown-parser
+
+Link to personal MarkdownParser repository:
+https://github.com/brandonszeto/markdown-parse 
 
 ---
 
-## Expected Output of MarkdownParser:
-
----
+## Expected Output of MarkdownParser: <br>
 
 Snippet 1:<br>
 <p align="center">
@@ -21,21 +25,24 @@ Snippet 3:<br>
   <img src="https://user-images.githubusercontent.com/99768694/169625973-c59251c7-b643-4ba2-a8c0-b347c72eaa97.png" alt="image" width="1000"/>
 </p>
 
+## MarkdownParseTest.java Code Testing for Expected above input:<br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/99768694/169626289-1b96c216-bd7e-49ab-9fdf-df4ab90a8afb.png" alt="image" width="800"/>
+</p>
+
+
+
 ## Reviewed Implementation of MarkdownParser:
 
-
----
-
-Link to reviewed MarkdownParser repository:
-https://github.com/mikayladalton2/markdown-parser <br><br>
-
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/99768694/169626567-ce34f34e-a2f5-45fa-b47c-611659e71c55.png" alt="image" width="1000"/>
+</p>
 
 ## Personal Implementation of MarkdownParser:
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/99768694/169626620-15215e77-110b-4998-8322-6d83c68c49c5.png" alt="image" width="1000"/>
+</p>
 
-Link to personal MarkdownParser repository:
-https://github.com/brandonszeto/markdown-parse <br><br>
 
 
