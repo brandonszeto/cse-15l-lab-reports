@@ -20,7 +20,7 @@ Snippet 2 Expected Output: ```[a.com, a.com(()), example.com]```<br>
   <img src="https://user-images.githubusercontent.com/99768694/169625948-da7ab63d-1bee-4e1c-87b5-ab8e24f850ed.png" alt="image" width="1000"/>
 </p>
 
-Snippet 3 Expected Output: ```[https://www.twitter.com, https://sites.google.com/eng.ucsd.edu/]```<br>
+Snippet 3 Expected Output: ```[https://www.twitter.com, https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule, https://cse.ucsd.edu/]```<br>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/99768694/169625973-c59251c7-b643-4ba2-a8c0-b347c72eaa97.png" alt="image" width="1000"/>
 </p>
