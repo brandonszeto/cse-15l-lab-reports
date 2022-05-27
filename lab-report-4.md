@@ -10,7 +10,7 @@ https://github.com/brandonszeto/markdown-parse
 
 ## Expected Output of MarkdownParser: <br>
 
-Snippet 1:<br>
+Snippet 1 Expected Output: ```[`google.com, google.com, ucsd.edu]``` <br>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/99768694/169625893-b2894655-03c0-4929-b8ed-49e81b99ecd9.png" alt="image" width="1000"/>
 </p>
